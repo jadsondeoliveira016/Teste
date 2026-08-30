@@ -1,0 +1,9 @@
+#caixa_inicial { background-color: purple;}
+h3 {color: white; align-items: center;}
+#botoesdacaixainicial {background-color: blueviolet; color: white; border-radius: 10%;}
+.corpo {background-color: white;}
+#divs {color: purple; height: 10%; width: 10%; border-radius: 5%; border-color: black; background-color: purple;}
+img {align-items: center; border-radius: 10%; height: 105%; width: 95%; border-color: black; align-content: center; position: relative; left: 3%;}
+#butaodosdivs {color: white; background-color: blueviolet; border-radius: 10%;}
+p {color: white; position: relative; left: 3%;}
+#textobase {color: black; position: relative; left: 3%;}
